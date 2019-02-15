@@ -1,6 +1,6 @@
 [{"nom":"Commode",
   "type":"Confort",
-  "nature":"Vivace",
+  "nature":"NatureTest",
   "imageurl":"https://imgur.com/L3cDgP8"},
   {"nom":"Table",
    "type":"Utile",
