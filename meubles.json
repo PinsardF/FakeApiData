@@ -2,7 +2,7 @@
   "type":"Bois",
   "nature":"Compact",
   "environnement":"Salon",
-  "description":C'est une armoire",
+  "description":"C'est une armoire",
   "imageurl":"https://i.imgur.com/L3cDgP8.png"},
   {"nom":"BILLY",
    "type":"Bois",
